@@ -1,0 +1,20 @@
+input{
+    border-radius: 5px;
+    height: 35px;
+}
+.gok{
+    position: absolute;
+    background: linear-gradient(120deg,black,rgb(41, 10, 6));
+    color: white;
+    width: 40px;
+    height: 40px;
+    transform: scale(3.5);
+    margin-left: 820px;
+    margin-top: -100px;
+    line-height: 40px;
+    text-align: center;
+}
+.gokb{
+    margin-top: -5px;
+    margin-left: -1px;
+}

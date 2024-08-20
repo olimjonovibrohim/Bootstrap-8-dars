@@ -1,0 +1,48 @@
+.no{
+    margin-left: 100px;
+}
+.jac11{
+    border: 5px solid aliceblue;
+    border-radius: 15px;
+}
+.jac12{
+    background-color: aliceblue;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    width: 110%;
+    height: 50px;
+    margin-left: -18px;
+    text-align: left;
+    line-height: 40px;
+}
+.fon{
+    margin-left: 20px;
+}
+.jac21{
+    border: 5px solid #155724;
+    border-radius: 15px;
+}
+.jac22{
+    background-color: #155724;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 110%;
+    height: 50px;
+    margin-left: -18px;
+    text-align: left;
+    line-height: 40px;
+}
+.jac31{
+    border: 5px solid #343a40;
+    border-radius: 15px;
+}
+.jac32{
+    background-color: #343a40;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 110%;
+    height: 50px;
+    margin-left: -18px;
+    text-align: left;
+    line-height: 40px;
+}
